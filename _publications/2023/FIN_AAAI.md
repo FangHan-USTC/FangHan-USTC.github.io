@@ -7,13 +7,13 @@ pub_date:       "2023"
 abstract: >-
 cover:          /assets/images/covers/cover2.jpg
 authors:
-  - Han Fang
-  - Yupeng Qiu
-  - Kejiang Chen
-  - Jiyi Zhang
-  - Weiming Zhang
-  - Ee-Chien Chang
+- Han Fang
+- Yupeng Qiu
+- Kejiang Chen
+- Jiyi Zhang
+- Weiming Zhang
+- Ee-Chien Chang
 links:
-  Paper: https://ojs.aaai.org/index.php/AAAI/article/view/25633
-  Code: https://github.com/QQiuyp/FIN
+Paper: https://ojs.aaai.org/index.php/AAAI/article/view/25633
+Code: https://github.com/QQiuyp/FIN
 ---
