@@ -16,5 +16,5 @@ authors:
   - Ee-Chien Chang
 links:
   Paper: https://ojs.aaai.org/index.php/AAAI/article/view/25633
-  Code: [https://github.com](https://github.com/QQiuyp/FIN)
+  Code: https://github.com/QQiuyp/FIN
 ---
