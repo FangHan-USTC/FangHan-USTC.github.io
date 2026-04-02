@@ -5,7 +5,7 @@ selected:       true
 pub:            "Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)"
 pub_date:       "2025"
 abstract: >-
-cover:          /assets/images/covers/cover1.jpg
+cover:          /assets/images/covers/ICCV_25.png
 authors:
 - Han Fang
 - Kejiang Chen
