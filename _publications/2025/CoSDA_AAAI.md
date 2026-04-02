@@ -5,7 +5,7 @@ selected:       true
 pub:            "Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)"
 pub_date:       "2025"
 abstract: >-
-cover:          /assets/images/covers/cover1.jpg
+cover:          /assets/images/covers/AAAI_25.png
 authors:
 - Han Fang
 - Kejiang Chen
