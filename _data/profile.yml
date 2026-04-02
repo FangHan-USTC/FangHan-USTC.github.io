@@ -1,10 +1,10 @@
-primary_name: "Fang Han"
+primary_name: "Fang Han (方涵)"
 secondary_name: ""
-navbar_name: "Fang Han"
+navbar_name: "Fang Han (方涵)"
 
 positions:
-- name: Professor
-- name: University of Science and Technology of China
+- name: Professor (特任教授)
+- name: University of Science and Technology of China (中国科学技术大学)
   logo: /assets/images/badges/USTC.png  # Logo is optional
 
 
