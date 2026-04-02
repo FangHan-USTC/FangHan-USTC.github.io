@@ -5,7 +5,7 @@ selected:       true
 pub:            "Proceedings of the 30th ACM international conference on multimedia (ACM MM)"
 pub_date:       "2022"
 abstract: >-
-cover:          /assets/images/covers/cover1.jpg
+cover:          /assets/images/covers/MM_22.png
 authors:
 - Han Fang
 - Zhaoyang Jia
