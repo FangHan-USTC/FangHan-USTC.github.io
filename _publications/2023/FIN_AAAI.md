@@ -4,8 +4,7 @@ date:           2023-01-21 00:01:00 +0800
 selected:       false
 pub:            "Proceedings of the AAAI conference on artificial intelligence (AAAI)"
 pub_date:       "2023"
-semantic_scholar_id: 
-abstract: 
+abstract: >-
 cover:          /assets/images/covers/cover2.jpg
 authors:
   - Han Fang
