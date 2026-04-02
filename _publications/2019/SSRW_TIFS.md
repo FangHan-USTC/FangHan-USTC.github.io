@@ -2,7 +2,7 @@
 title:          "Screen Shooting Resilient Watermarking"
 date:           2019-06-01 00:01:00 +0800
 selected:       true
-pub:            "IEEE Transactions on Information Forensics and Security (*TIFS*)"
+pub:            "IEEE Transactions on Information Forensics and Security (TIFS)"
 pub_date:       "2019"
 abstract: >-
 cover:          /assets/images/covers/cover1.jpg
