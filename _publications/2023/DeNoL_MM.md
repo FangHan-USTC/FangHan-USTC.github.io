@@ -5,7 +5,7 @@ selected:       false
 pub:            "Proceedings of the 31st ACM international conference on multimedia (ACM MM)"
 pub_date:       "2023"
 abstract: >-
-cover:          /assets/images/covers/cover3.jpg
+cover:          /assets/images/covers/MM_23_DeNoL.png
 authors:
   - Han Fang
   - Kejiang Chen
