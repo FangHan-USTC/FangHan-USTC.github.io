@@ -5,7 +5,7 @@ selected:       false
 pub:            "Proceedings of the AAAI conference on artificial intelligence (AAAI)"
 pub_date:       "2023"
 abstract: >-
-cover:          /assets/images/covers/cover2.jpg
+cover:          /assets/images/covers/AAAI_23_FIN.png
 authors:
 - Han Fang
 - Yupeng Qiu
