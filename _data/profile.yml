@@ -5,7 +5,7 @@ navbar_name: "Fang Han"
 positions:
 - name: Professor
 - name: University of Science and Technology of China
-  logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+  logo: /assets/images/badges/USTC.png  # Logo is optional
 
 
 email: "fanghan@ustc.edu.cn"
@@ -22,29 +22,35 @@ github: https://github.com/FangHan-USTC
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
-  </p>
-  <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
-  </p>
+  I am a tenure-track professor at the School of Cyber Science and Technology, University of Science and Technology of China. 
+  My research interests include digital watermarking and the security of artificial intelligence. My current research focuses on multimedia watermarking and adversarial machine learning.
+  Previously, I completed a five-year postdoctoral fellowship the National University of Singapore (working with Assoc. Prof. Chang Ee-Chien), 
+  I obtain my Ph.D. (2021) and Bachelor's degree (2016) from the University of Science and Technology of China (USTC), advised by Prof. Yu Nenghai and Prof. Zhang Weiming. 
+  #   A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+  # </p>
+  # <p>
+  #   There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
+  #   and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
+  #   as well as being common in domestic longhair and domestic shorthair cats.
+  # </p>
 
-portrait_url: /assets/images/photos/portrait.jpg
-portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+portrait_url: /assets/images/photos/FangHan.jpg
+# portrait_caption: >-
+#   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
-  position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
-    Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+- name: National University of Singapore
+  logo: /assets/images/badges/NUS.jpg
+  position: Postdoc. in School of Computing
+  date: Oct. 2021 - Dec. 2025
+- name: University of Science and Technology of China
+  logo: /assets/images/badges/USTC.png
+  position: Ph.D. in Cyber Science and Technology
+  date: Sep. 2016 - June 2021
+- name: Nanjing University of Aeronautics and Astronautics
+  logo: /assets/images/badges/NUAA.jpg
+  position: B.S. in Electronic Information Science and Technology
+  date: Sep. 2012 - June 2016
 
 # experience:
 # - name: Peking University
