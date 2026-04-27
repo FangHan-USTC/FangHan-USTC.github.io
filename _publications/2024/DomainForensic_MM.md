@@ -8,7 +8,7 @@ abstract: >-
 cover:          /assets/images/covers/MM_24_Forensic.png
 authors:
   - Jiyi Zhang
-  - Han Fang*
+  - Han Fang#
   - Ee-Chien Chang
 links:
 ---
