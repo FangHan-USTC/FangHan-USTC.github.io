@@ -8,7 +8,7 @@ abstract: >-
 cover:          /assets/images/covers/MM_21_MBRS.png
 authors:
 - Zhaoyang Jia
-- Han Fang*
-- Weiming Zhang*
+- Han Fang#
+- Weiming Zhang#
 links:
 ---
