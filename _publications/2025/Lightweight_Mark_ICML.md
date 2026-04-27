@@ -8,7 +8,7 @@ abstract: >-
 cover:          /assets/images/covers/ICML_25.png
 authors:
 - Yupeng Qiu
-- Han Fang*
+- Han Fang#
 - Ee-Chien Chang
 links:
 ---
