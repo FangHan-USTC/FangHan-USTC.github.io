@@ -1,1 +1,14 @@
-
+---
+title:          "MBRS: Enhancing Robustness of DNN-based Watermarking by Mini-Batch of Real and Simulated JPEG Compression"
+date:           2021-10-20 00:01:00 +0800
+selected:       false
+pub:            "Proceedings of the 29th ACM international conference on multimedia (ACM MM)"
+pub_date:       "2021"
+abstract: >-
+cover:          /assets/images/covers/MM_21_MBRS.png
+authors:
+- Zhaoyang Jia
+- Han Fang*
+- Weiming Zhang*
+links:
+---
