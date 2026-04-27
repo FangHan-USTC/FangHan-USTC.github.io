@@ -8,9 +8,9 @@ abstract: >-
 cover:          /assets/images/covers/NeurIPS_25.png
 authors:
 - Jindong Yang
-- Han Fang*
+- Han Fang#
 - Weiming Zhang
 - Nenghai Yu
-- Kejiang Chen*
+- Kejiang Chen#
 links:
 ---
