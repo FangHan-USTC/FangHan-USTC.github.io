@@ -12,7 +12,7 @@ authors:
 - Han Fang*
 - Chang Liu
 - Zehua Ma
-- Weiming Zhang
+- Weiming Zhang*
 - Nenghai Yu
 links:
 ---
