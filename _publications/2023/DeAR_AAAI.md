@@ -9,9 +9,9 @@ cover:          /assets/images/covers/AAAI_23_DeAR.png
 authors:
 - Chang Liu
 - Jie Zhang
-- Han Fang*
+- Han Fang#
 - Zehua Ma
-- Weiming Zhang*
+- Weiming Zhang#
 - Nenghai Yu
 links:
 ---
