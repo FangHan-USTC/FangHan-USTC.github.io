@@ -9,10 +9,10 @@ cover:          /assets/images/covers/AAAI_23_AutoStegaFont.png
 authors:
 - Xi Yang
 - Jie Zhang
-- Han Fang*
+- Han Fang#
 - Chang Liu
 - Zehua Ma
-- Weiming Zhang*
+- Weiming Zhang#
 - Nenghai Yu
 links:
 ---
