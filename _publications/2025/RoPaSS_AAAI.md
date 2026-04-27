@@ -8,9 +8,9 @@ abstract: >-
 cover:          /assets/images/covers/AAAI_25_RoPaSS.png
 authors:
 - Zehua Ma
-- Han Fang*
+- Han Fang#
 - Xi Yang
-- Kejiang Chen*
+- Kejiang Chen#
 - Weiming Zhang
 links:
 ---
