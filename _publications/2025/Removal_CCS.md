@@ -7,11 +7,9 @@ pub_date:       "2025"
 abstract: >-
 cover:          /assets/images/covers/CCS_25.png
 authors:
-- Han Fang
-- Kejiang Chen
-- Zijin Yang
-- Bosen Cui
-- Weiming Zhang
+- De Zhang Lee
+- Han Fang#
+- Hanyi Wang
 - Ee-Chien Chang
 links:
 ---
