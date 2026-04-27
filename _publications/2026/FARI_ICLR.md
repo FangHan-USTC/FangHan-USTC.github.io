@@ -8,9 +8,9 @@ abstract: >-
 cover:          /assets/images/covers/ICLR_26_FARI.png
 authors:
   - Jindong Yang
-  - Han Fang*
+  - Han Fang#
   - Weiming Zhang
   - Nenghai Yu
-  - Kejiang Chen*
+  - Kejiang Chen#
 links:
 ---
