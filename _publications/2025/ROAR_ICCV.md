@@ -8,7 +8,7 @@ abstract: >-
 cover:          /assets/images/covers/ICCV_25_ROAR.png
 authors:
 - Hanyi Wang
-- Han Fang*
+- Han Fang#
 - Shi-Lin Wang
 - Ee-Chien Chang
 links:
