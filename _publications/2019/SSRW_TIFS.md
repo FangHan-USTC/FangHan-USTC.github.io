@@ -7,7 +7,7 @@ pub_date:       "2019"
 abstract: >-
 cover:          /assets/images/covers/TIFS_19.png
 authors:
-- Han Fang#
+- __Han Fang__
 - Weiming Zhang
 - Hang Zhou
 - Hao Cui
