@@ -8,9 +8,9 @@ abstract: >-
 cover:          /assets/images/covers/MM_24_SemGIR.png
 authors:
   - Xiao Yu
-  - Kejiang Chen*
+  - Kejiang Chen#
   - Kai Zeng
-  - Han Fang*
+  - Han Fang#
   - Zijin Yang
   - Xiuwei Shang
   - Yuang Qi
