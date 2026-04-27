@@ -8,7 +8,7 @@ abstract: >-
 cover:          /assets/images/covers/TDSC_26.png
 authors:
   - Jiyi Zhang
-  - Han Fang*
+  - Han Fang#
   - Ee-Chien Chang
 links:
 ---
