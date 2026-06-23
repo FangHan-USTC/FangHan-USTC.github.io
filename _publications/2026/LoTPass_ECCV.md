@@ -8,8 +8,8 @@ abstract: >-
 cover:          /assets/images/covers/ECCV_26_LoTPass.png
 authors:
   - Guanjie Wang
-  - Han Fang#
   - Zehua Ma#
+  - Han Fang#
   - Weiming Zhang
 links:
 ---
