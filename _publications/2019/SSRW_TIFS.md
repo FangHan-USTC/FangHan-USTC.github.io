@@ -13,4 +13,6 @@ authors:
 - Hao Cui
 - Nenghai Yu
 links:
+  Paper: https://ieeexplore.ieee.org/document/8513859
+  Code: https://github.com/FangHanNUS/Screen-Shooting-Resilient-Watermarking
 ---
