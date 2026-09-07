@@ -13,4 +13,6 @@ authors:
 - Ee-Chien Chang
 - Weiming Zhang
 links:
+  Paper: https://dl.acm.org/doi/10.1145/3503161.3548049
+  Code: https://github.com/FangHanNUS/PIMoG-An-Effective-Screen-shooting-Noise-Layer-Simulation-for-Deep-Learning-Based-Watermarking-Netw
 ---
