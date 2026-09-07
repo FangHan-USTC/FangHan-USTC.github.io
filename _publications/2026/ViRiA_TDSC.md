@@ -5,7 +5,7 @@ selected:       True
 pub:            "IEEE Transactions on Dependable and Secure Computing (TDSC)"
 pub_date:       "2026"
 abstract: >-
-cover:          /assets/images/covers/TDSC_26_ViRiA.png
+cover:          /assets/images/covers/TDSC_26_VaRiA.png
 authors:
   - Guanjie Wang
   - Zehua Ma#
